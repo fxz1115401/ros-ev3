@@ -1,15 +1,15 @@
 libconsole-bridge-dev:
   debian:
-    jessie: [libconsole-bridge-dev]
+    stretch: [libconsole-bridge-dev]
 python-rosdep:
   debian:
-    jessie: []
+    stretch: []
 sbcl:
   debian:
-    jessie: []
+    stretch: []
 python-rospkg:
   debian:
-    jessie: []
+    stretch: []
 python-catkin-pkg:
   debian:
-    jessie: []
+    stretch: []
